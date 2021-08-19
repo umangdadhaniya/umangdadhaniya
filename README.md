@@ -8,7 +8,7 @@
 - 📫 How to reach me 📧umang.dadhaniya95@gmail.com 
 - 😄 Pronouns: ...he/him
  
-<img src='https://github-readme-stats.vercel.app/api?username=umangdadhaniya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
+<img src='https://github-readme-stats.vercel.app/api?username=umangdadhaniya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919'>
 
 ### Connect with me:
 
