@@ -29,7 +29,7 @@
 
 <img align="left" alt="tensorflow" width="70px" src="https://www.gstatic.com/devrel-devsite/prod/vf0396724755d04dbab75050e6812ced8fb2ab11d424163deba5826536b4b1964/tensorflow/images/lockup.svg?dcb_=0.4953277912207017" />
 
-<img align="left" alt="numpy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />
+
 
 <img align="left" alt="pandas" width="70px" src="https://pandas.pydata.org/static/img/pandas.svg" />
 
